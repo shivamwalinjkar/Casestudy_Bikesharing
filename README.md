@@ -1,52 +1,41 @@
-# Project Name
-> Outline a brief description of your project.
+# Bike-Sharing Case Study - Linear Regression Assignment
+> A US based bike-sharing company BoomBikes has recently suffered considerable dibs in revenue dur to the ongoing Covid Pandemic.
+> BoomBikes aspires to understand the demand for shared bikes among the people after this ongoing quarantine situation ends across the nation in order to prepare themselves to cater to people's needs & increase their revenue.
+> For this purpose, they have hired a consulting company & want to understand the following:
+> 1.  Which variables are significant in predicting the demand for shared bikes.
+> 2.  How well those variables describe the bike demands
 
 
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
-* [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
 
-<!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
+- This project involves understanding the demand for the bike-sharing services in the region & being prepared to cater to increasing demand of the service based on various dependant factors.
 - What is the background of your project?
+- BoomBikes faced considerable dibs in their revenue due to the on-going Covid Pandemic. Now, they are planning to increase their revenue and compensate the previous losses by preparing themselves to optimise their services during peak demand. For this, they need to understand the various factors which contribute to increase in demand.
 - What is the business probem that your project is trying to solve?
+- The management will use the created linear regression model to understand how exactly the demands vary with different features.
+- They can accordingly manipulate the business strategy to meet the demand levels and meet the customer's expectations.
+- Further, the model will be a good way for management to understand the demand dynamics of a new market. 
 - What is the dataset that is being used?
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
-## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
+- Based on various meteorological surveys and people's styles, the BoomBikes firm has gathered a large dataset on daily bike demands across the American market based on some factors. 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
-
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
+- numpy
+- pandas
+- matplotlib
+- seaborn
+- warnings
+- statsmodels
+- sklearn
 
 ## Acknowledgements
 Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
-
+- This project was inspired by IIIT-B AI ML Course
+- This project was based on Linear Regression Module.
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
-
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
+Created by [@shivamwalinjkar] - feel free to contact me!
